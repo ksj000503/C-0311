@@ -124,6 +124,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="0311.cpp" />
+    <ClCompile Include="qoduf.cpp" />
+    <ClCompile Include="StringUtil.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StringUtil.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
