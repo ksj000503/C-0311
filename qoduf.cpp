@@ -10,15 +10,22 @@ int main()
 
 	int Size = 0;
 	cin >> Size;
+	int *CountPrint = nullptr;
+	CountPrint = new int[Size];
 
-	int* CountPrint = new int[Size];
+	if (!CountPrint) // CountPrint == nullptr, CountPrint == 0
+	{
+		return -1;
+	}
 
 	for (int i = 0; i < Size; i++)
 	{
-		CountPrint[i] = i + 1;
-		cout << CountPrint[i] << endl;
+		CountPrint[i] = i + 1; // 초기화
+		cout << CountPrint[i] << " ";
 	}
-
+	cout << endl;
+	
+	// heap에 있는 배열을 반환해주세요.
 	delete[] CountPrint;
 	CountPrint = nullptr;
 
