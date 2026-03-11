@@ -19,5 +19,8 @@ int main()
 		cout << CountPrint[i] << endl;
 	}
 
+	delete[] CountPrint;
+	CountPrint = nullptr;
+
 	return 0;
 }

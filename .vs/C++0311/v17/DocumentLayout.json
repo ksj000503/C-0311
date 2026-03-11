@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "qoduf.cpp",
               "ToolTip": "C:\\work\\C\u002B\u002B0311\\qoduf.cpp",
               "RelativeToolTip": "qoduf.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-11T05:37:39.119Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "StringUtil.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-11T05:36:25.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T05:36:25.03Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "StringUtil.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-11T05:35:53.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T05:35:53.49Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "0311.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-11T01:29:42.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T01:29:42.768Z"
             }
           ]
         }
